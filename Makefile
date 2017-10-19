@@ -4,7 +4,7 @@ bundle.js: main.js
 watch:
 	npm run watch
 
-install:
+setup:
 	npm install
 
 run:
