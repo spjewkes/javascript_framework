@@ -17,3 +17,19 @@ Rebuilding after editing can be done by simply doing the following:
 ```bash
 make
 ```
+
+## Continuous rebuilding
+
+To rebuild continuous when the files are changed, run the following:
+
+```bash
+make watch
+```
+
+## Server mode
+
+To run the server to automatically open the project:
+
+```bash
+make server
+```
