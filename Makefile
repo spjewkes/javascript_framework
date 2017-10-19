@@ -7,5 +7,5 @@ watch:
 setup:
 	npm install
 
-run:
+server:
 	npm run server
